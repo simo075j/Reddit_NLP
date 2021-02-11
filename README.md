@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=wpCoHEieOxw&ab_channel=CodingFlamingo
 for ref https://www.youtube.com/watch?v=CJAdCLZaISw&ab_channel=PartTimeLarry
 
 Use a stock tick list to compare output
+![](ticker_prices.png)
+
+![](ticker_prices.png)
 
 ![](ticker_prices.png)
 
