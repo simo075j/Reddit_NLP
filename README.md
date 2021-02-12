@@ -1,4 +1,4 @@
-# Wallstreetbets analyisis with webscraping, NLP and SQL
+# Reddit investing communities(Wallstreetbets) analyisis with webscraping, yfinance and NLP
 With all the talk in the media about the impact of wallstreetbets, i thought it would be fun to get an insight into what is actually going on in this massive community.
 My interest for doing this project really caught on fire after my silver stocks skyrocketed due to interest from reddit forums such as wallstreet bets.
 
