@@ -15,6 +15,3 @@ The script furthermore takes the most discussed tickers and look up their curren
 ![](Reddit_sentiment.png)
 
 ![](ticker_prices.png)
-
-
-*With inspiration from Github-user asad70*
