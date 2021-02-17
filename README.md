@@ -1,4 +1,4 @@
-# Understanding Reddit investing communities('Wallstreetbets', 'stocks, 'investing' and 'stockmarket') with webscraping, yfinance and NLP.
+# Understanding Reddit investing communities('Wallstreetbets', 'stocks, 'investing' etc.) with webscraping, yfinance and NLP.
 The power of social media has recently drawn alot of attention in the media and investment world. Some of the most popular finance/investment subreddits such as 'wallstreetbets', 'stocks', 'investing' and 'stockmarket' accumulate upwards of 15 million users. Understanding what's going on in this world is almost impossible as an outside investor, BUT with some automation every outsider has a chance.
 
 
