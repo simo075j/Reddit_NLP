@@ -8,7 +8,7 @@ The script furthermore takes a deeper dive into some of the most mentioned stock
 * Visualizations of closing prices over various timeperiods
 * Most recent recommendations from top institutions (Goldman sachs, Morgan Stanley, etc.)
 * An insight into the top institutional shareholders
-* Company descriptions, indutry of operation, moving averages, short ratios, market capitalization and much more.
+* Company descriptions, industry of operation, moving averages, short ratios, market capitalization and much more.
 
 
 **Example output**
