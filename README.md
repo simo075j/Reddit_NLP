@@ -2,9 +2,13 @@
 The power of social media has recently drawn alot of attention in the media and investment world. Some of the most popular finance/investment subreddits such as 'wallstreetbets', 'stocks', 'investing' and 'stockmarket' accumulate upwards of 15 million users. Understanding what's going on in this world is almost impossible as an outside investor, BUT with some automation every outsider has a chance.
 
 
-This program can be used to scrape and analyse any investing/stock related subreddits, to gain a basic understanding on whats being discussed on a daily basis. (i.e /wallstreetbets, /investing, /stocks).
+This program scrapes and analyses any investing/stock related subreddits, to gain a basic understanding on whats being discussed on a daily basis, the general sentiment and overall financial metrics of mentioned stocks.
 The application uses Vader SentimentIntensityAnalyzer to calculate ticker compound values with the incorporation of custom reddit "slang" words related to stocks and investing.
-The script furthermore takes the most discussed tickers and look up their current price using the yfinance API.
+The script furthermore takes a deeper dive into some of the most mentioned stocks using the Yahoo finance API 'yfinance'. This includes:
+* Visualizations of closing prices over various timeperiods
+* Most recent recommendations from top institutions (i.e. Goldman sachs, Morgan Stanley...)
+* An insight into the top institutional shareholders
+* A detailed company description including metrics such as moving averages, short-ratio, market capitalization and much more.
 
 
 **Example output**
