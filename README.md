@@ -13,8 +13,14 @@ The script furthermore takes a deeper dive into some of the most mentioned stock
 
 **Example output**
 
-![](reddit_treemap.png)
+![](wsb1.png)
 
-![](Reddit_sentiment.png)
+![](wsb2.png)
 
-![](ticker_prices.png)
+![](wsb3.png)
+
+![](wsb4.png)
+
+![](wsb5.png)
+
+![](wsbb.png)
