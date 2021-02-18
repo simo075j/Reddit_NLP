@@ -23,4 +23,3 @@ The script furthermore takes a deeper dive into some of the most mentioned stock
 
 ![](wsb5.png)
 
-![](wsbb.png)
